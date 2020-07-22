@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import * as actions from "../redux config/actions";
+import * as actions from "../redux config/actions/comments";
 import { useDispatch } from "react-redux";
 
 const CommentBox = () => {
